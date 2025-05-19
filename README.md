@@ -72,4 +72,14 @@ The dataset contains various features such as student demographics, study habits
 6. Follow the instructions inside the notebook to input student data and get predictions.
 
 ## Project Structure
+student-performance-predictor/<br>
+│<br>
+├── LICENSE                          # Project license (MIT)<br>
+├── README.md                       # Project overview and instructions<br>
+├── requirements.txt                # Python dependencies<br>
+├── student_score_predictor.py      # Main Python script for prediction<br>
+├── student_scores.csv              # Dataset file with student data<br>
+├── predicted_vs_actual.png         # Visualization: predicted vs actual results<br>
+├── regression_plot.png             # Visualization: regression plot<br>
+└── Student_Performance_Predictor.ipynb  # Jupyter notebook with EDA, modeling, and evaluation<br>
 
